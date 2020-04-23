@@ -184,6 +184,7 @@ header {
   border-bottom: 1px solid #eee;
   padding-bottom: 80px;
   text-align: center;
+  background-color: #00ffff;
 }
 
 .message {
@@ -200,7 +201,7 @@ header {
 }
 
 footer img {
-  width: 125px;
+  width: 110px;
   margin-left: -125px;
 }
 
@@ -211,6 +212,6 @@ footer p {
 }
 
 footer {
-  padding-top: 30px;
-  padding-bottom: 20px;
+  padding-top: 8px;
+  padding-bottom: 2px;
 }
