@@ -194,6 +194,13 @@ header {
   box-shadow: 0 7px #1a7940;
 }
 
+.message1 {
+  padding: 20px 50px;
+  background-color: #2A8EBA;
+  cursor: pointer;
+  box-shadow: 0 8px #1a7940;
+}
+
 .message:active {
   position: relative;
   top: 7px;
