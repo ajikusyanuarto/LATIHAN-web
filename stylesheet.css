@@ -107,7 +107,7 @@ header {
 
 .header-right {
   float: right;
-  /*margin-right: -125px;*/
+  margin-right: 5px;
 }
 
 .header-right a {
@@ -209,13 +209,13 @@ header {
 
 footer img {
   width: 110px;
-  /*margin-left: -125px;*/
+  margin-left: 5px;
 }
 
 footer p {
   color: #b3aeb5;
   font-size: 12px;
-  /*margin-left: -125px;*/
+  margin-left: 5px;
 }
 
 footer {
